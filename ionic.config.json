@@ -1,0 +1,7 @@
+{
+  "name": "ToolbarBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
